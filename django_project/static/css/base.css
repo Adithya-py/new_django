@@ -1,0 +1,14 @@
+header h1 a {
+    color: gold;
+    font-style: italic;
+    text-decoration: none;
+   
+}
+header{
+    border: 11px solid grey;
+}
+.container{
+    text-align: center;
+    margin: 0 auto;
+    
+}
